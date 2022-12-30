@@ -4,7 +4,6 @@
  * 
  * @package msizin
  */
-
  ?>
     <footer>
         <h1>Footer</h1>
