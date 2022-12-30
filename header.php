@@ -14,6 +14,7 @@
     <title>Msizi N - Multi Purpose WordPress theme</title>
 </head>
 <body>
-    <header>
-        
+    <header class="header_msizin">
+        <h1>Header test</h1>
+        <h1>Header test 2</h1>
     </header>

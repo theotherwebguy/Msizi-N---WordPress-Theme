@@ -1,13 +1,13 @@
 <?php
 /**
- * Theme Footer file
+ * Theme Footer Template
  * 
  * @package msizin
  */
 
  ?>
-<footer>
-
-</footer>
+    <footer>
+        <h1>Footer</h1>
+    </footer>
 </body>
 </html>
